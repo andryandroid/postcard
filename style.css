@@ -16,17 +16,30 @@ p{
 }
 
 #izquierdo{
-    padding: 4px 4px;
+    padding: 4px 0px 0px 10px;
     float: left;
-    width: 47%;
+    width: 45%;
 }
 
 #derecho{
+    padding: 4px 10px 0px 0px;
     float: right;
     width: 47%;
 }
 
 img{
-    width: 75px;
-    float: left;
+    width: 65px;
+    float: right;
+}
+
+.formulario{
+    font-family: 'Handlee', cursive;
+    width: 95%;
+    padding: 4px;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+
+#abajo{
+    font-family: 'Handlee', cursive;
 }
