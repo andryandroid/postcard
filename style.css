@@ -1,4 +1,32 @@
+#card{
+
+    background-color:white;
+    width: 450px;
+    height: 300px;
+    margin: auto;
+    font-family: 'Handlee', cursive;
+}
+
 body{
-  padding: 4px;
-  background-color: red;
+
+    background-color: #171717;
+}
+p{
+   font-weight: bold;
+}
+
+#izquierdo{
+    padding: 4px 4px;
+    float: left;
+    width: 47%;
+}
+
+#derecho{
+    float: right;
+    width: 47%;
+}
+
+img{
+    width: 75px;
+    float: left;
 }
