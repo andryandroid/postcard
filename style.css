@@ -38,13 +38,20 @@ img{
     padding: 4px;
     border: none;
     border-bottom: 1px solid grey;
+    font-size: 17px;
 }
 
 #abajo{
-    padding: 150px;
+padding: 150px;
+
 }
 
 #boton{
     font-family: 'Handlee', cursive;
     font-weight: bold;
+    border: none;
+    border-bottom: 1px solid grey;
+    background-color: #c0c0c0;
+    font-size: 18px;
+    margin: auto;
 }
