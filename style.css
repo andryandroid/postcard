@@ -41,5 +41,10 @@ img{
 }
 
 #abajo{
+    padding: 150px;
+}
+
+#boton{
     font-family: 'Handlee', cursive;
+    font-weight: bold;
 }
