@@ -1,14 +1,16 @@
 #card{
-
     background-color:white;
     width: 450px;
     height: 300px;
     margin: auto;
     font-family: 'Handlee', cursive;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 body{
-
     background-color: #171717;
 }
 p{
@@ -42,8 +44,7 @@ img{
 }
 
 #abajo{
-padding: 150px;
-
+    padding: 150px;
 }
 
 #boton{
